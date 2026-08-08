@@ -131,3 +131,15 @@ class TwoSum {
 ## 🎯 Goal
 
 Build strong DSA fundamentals for interviews at product-based companies — consistency over volume, one problem understood deeply beats ten copied.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Tanmay0405/dsa-java/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Tanmay0405/dsa-java/tree/master/0707-design-linked-list) |
+<!---LeetCode Topics End-->
