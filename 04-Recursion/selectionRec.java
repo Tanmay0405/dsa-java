@@ -1,4 +1,3 @@
-package practice;
 
 import java.util.Arrays;
 
@@ -18,7 +17,6 @@ public class selectionRec {
                 }else{
                     selection(arr,r,c+1,max);
                 }
-
             }else{
                 //swap
                 int temp = arr[max];
